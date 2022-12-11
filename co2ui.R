@@ -77,7 +77,7 @@ ui <- shinyUI(fluidPage(
       )
     ),
     tabPanel(
-      "Introduction",
+      "Chart",
       sidebarLayout(
         sidebarPanel(
           h1("Emissions"),

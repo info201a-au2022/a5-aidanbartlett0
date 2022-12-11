@@ -5,10 +5,10 @@ account: aidanbartlett0
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7865592
-bundleId: 6621738
+bundleId: 6622518
 url: https://aidanbartlett0.shinyapps.io/aidanbartlett0CO2Trends/
-when: 1670723910.1095
-lastSyncTime: 1670723910.10951
+when: 1670745800.36757
+lastSyncTime: 1670745800.3676
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: README.md
